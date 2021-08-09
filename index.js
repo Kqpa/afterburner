@@ -12,7 +12,7 @@ class Afterburner extends AkairoClient {
 
     const commandHandler = new CommandHandler(this, {
         directory: "./Commands/",
-        prefix: "!!"
+        prefix: "vis!"
     });
 
     commandHandler.loadAll();
