@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-akairo": "github:discord-akairo/discord-akairo",
+    "discord.js": "^13.0.1"
+  }
+}
