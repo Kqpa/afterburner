@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "discord-akairo": "github:discord-akairo/discord-akairo",
-    "discord.js": "^13.0.1"
+    "discord.js": "^13.0.1",
+    "node-fetch": "^2.6.1"
   }
 }
