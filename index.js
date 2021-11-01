@@ -27,4 +27,4 @@ client.on('ready', () => {
     console.log('Bot has been loaded.')
 })
 
-client.login("ODc0MTY1NDAxMDQ1NTgxODg0.YRC_-A.Rd6OtJfGV85ym2CV6qU48-nOa-0");
+client.login("token");
